@@ -1,0 +1,37 @@
+body{margin:0;padding:0;background:#fff;}
+a{text-decoration:none;}
+
+#top{position:fixed;top:0;background:#4cadb4;height:50px;width:100%;}
+#top p{padding-top:9px;padding-left:20px;margin:0;display:block;float:left;font-size:28px;color:#5d2389;}
+#top a{display:block;float:left;font-size:14px;color:#fff;margin-left:40px;margin-top:33px;}
+#top .logout{display:block;float:right;font-size:14px;color:#ddd;margin-right:20px;margin-top:33px;}
+#top .logout:hover{color:#fff;}
+
+#left{margin-top:50px;width:180px;height:800px;float:left;background:#f3f3f3;}
+#left ul{padding:0;margin:0;}
+#left li{height:34px;width:180px;text-align:center;}
+.active{background:#d0d0d0;}
+#left li:hover{background:#e8e8e8;}
+#left a{font-size:16px;display:block;height:26px;width:180px;padding-top:8px;color:#777;}
+#logo{height:100px;width:100px;margin:20px 40px;background:url(../image/logo.png);}
+
+.right{margin-top:50px;margin-left:20px;float:left;height:800px;display:none;}
+
+.form_box{height:120px;}
+.form_box p{margin:0;font-size:16px;padding-top:50px;margin-bottom:20px;}
+.input_box{height:26px;width:200px;border:solid 1px #777;background:#fff;color:#777;margin-right:10px;}
+.input_box:focus{color:#000;}
+.submit_box{float:right;margin-right:100px;height:30px;width:100px;border:solid 1px #777;background:#fff;color:#777;}
+.submit_box:hover{background:#eee;color:#000;}
+.list_box{height:500px;width:800px;}
+.list_box p{margin:0;font-size:16px;padding-top:50px;margin-bottom:20px;}
+.list_box a{display:block;font-size:14px;width:200px;color:#777;float:left;}
+.league_detail:hover{background:#eee;color:#000;}
+
+#detail_box{height:500px;width:800px;display:none;position:absolute;top:50%;margin-top:-250px;left:50%;margin-left:-400px;background:#fff;border:solid 1px #000;}
+#detail_box a{display:block;font-size:14px;color:#777;height:18px;}
+#detail_box .close{font-size:18px;width:14px;float:right;color:#000;}
+
+#bottom{width:100%;height:30px;float:left;text-align:center;}
+#bottom a{font-size:12px;color:#777;}
+hr{margin:0;}

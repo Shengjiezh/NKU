@@ -1,0 +1,1 @@
+<!DOCTYPE HTML><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>NKU社团联</title><link rel="stylesheet" type="text/css" href="<?php echo common_path(); ?>globle.css" /><link rel="stylesheet" type="text/css" href="<?php echo common_path(); ?>bootstrap/css/bootstrap.min.css" />

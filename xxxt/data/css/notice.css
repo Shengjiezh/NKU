@@ -1,0 +1,59 @@
+#main{
+	background:#fff;
+	padding: 0px 5px;
+	border-top: solid 1px #eee;
+}
+#msg_list{
+        color:#333;
+	padding-bottom:20px;
+}
+.sysmsg_item{
+        font-size:14px;
+}
+.sysmsg_item .item_title{
+        height:30px;
+        line-height:30px;
+        padding:0 20px;
+        cursor:pointer;
+}
+.sysmsg_item .active_item{
+        box-shadow:0 -2px 5px #ccc;
+        background-color:#f0ebef;
+}
+.sysmsg_item .item_title:hover{
+        background-color:#E5DCE3;
+}
+.sysmsg_item .item_title .new_msg{
+        color:#e00;
+        font-size:12px;
+}
+.sysmsg_item .item_title i{
+        font-size:12px;
+        float:right;
+}
+.sysmsg_item .item_content{
+        background-color:#f0ebef;
+        border-top:1px dashed #e5dce3;
+        padding:10px 20px;
+        display:none;
+        box-shadow:0 2px 5px #ccc;
+}
+.sysmsg_item .item_content p{
+        line-height:24px;
+        min-height:24px;
+}
+.sysmsg_item .item_content .btn{
+        background:#713a68;
+        display:block;
+        color:#fff;
+        text-align:center;
+        float:right;
+        height:24px;
+        width:80px;
+        line-height:24px;
+        font-size:12px;
+        cursor:pointer;
+}
+.sysmsg_item .item_content .btn:hover{
+        background-color:#d14836;
+}

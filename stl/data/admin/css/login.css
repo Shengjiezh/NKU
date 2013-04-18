@@ -1,0 +1,27 @@
+#login_box{
+	background:#4cadb4;
+	position:fixed;
+    height:40%;
+    width:40%;
+	top:30%;
+	left:30%;
+}
+#img{
+	margin:0 auto 3%;
+	display:block;
+}
+input{
+    width:60%;
+    margin-left:20%;
+}
+#submit{
+    display:block;
+    margin:3% auto 0;
+}
+#detail{
+    position:fixed;
+    top:70%;
+    width:100%;
+    text-align:center;
+    color:#777;
+}

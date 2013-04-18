@@ -1,0 +1,21 @@
+body{background:#eee;}
+
+#map{width:608px;height:608px;position:absolute;top:50%;left:50%;margin-top:-304px;margin-left:-304px;}
+.box{position:absolute;width:200px;height:200px;margin:1px;display:none;}
+
+#b0{background:#4cadb4;top:0;left:0;background-image:url(../img/1.png);}
+#b1{background:#d34e32;top:0;left:202px;}
+#b2{background:#dc9018;top:0;left:404px;}
+#b2 p{display:block;font-size:24px;color:#fff;height:30px;width:180px;margin-left:20px;margin-top:30px;margin-bottom:30px;}
+#b2 a{display:block;font-size:14px;color:#fff;height:20px;width:180px;margin-left:20px;}
+#b3{background:#5858b8;top:202px;left:0;}
+#b4{background:#9ab534;top:202px;left:202px;}
+#b5{background:#7833aa;top:202px;left:404px;background-image:url(../img/2.png);}
+#b6{background:#781768;top:404px;left:0;}
+#b6 a{display:block;height:20px;width:190px;margin-top:180px;margin-left:10px;color:#fff;font-size:10px;}
+#b7{background:#034786;top:404px;left:202px;background-image:url(../img/3.png);}
+#b8{background:#4cadb4;top:404px;left:404px;}
+
+.user_ico{background:url(../img/user.png);height:64px;width:64px;margin-left:68px;margin-bottom:10px;}
+form{text-align:center;}
+input{width:80%;}

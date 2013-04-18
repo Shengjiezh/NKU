@@ -1,0 +1,12 @@
+body{margin:0;padding:0;background:#eee;}
+
+.input_box{height:30px;width:280px;background:#fff;margin-left:60px;margin-top:10px;border:solid 1px #eee;color:#777;}
+.input_box:focus{color:#000;}
+
+.submit_box{height:30px;width:100px;background:#fff;margin-left:150px;margin-top:50px;border:solid 1px #eee;color:#777;}
+.submit_box:hover{color:#000;background:#eee;}
+
+#login{height:320px;width:400px;background:#4cadb4;position:absolute;top:50%;left:50%;margin-top:-160px;margin-left:-200px;}
+#login a{display:block;height:20px;width:400px;font-size:10px;color:#777;background:#eee;margin-top:22px;text-align:center;}
+
+#img_box{height:100px;width:100px;margin-left:150px;margin-top:10px;background:url(../image/login_person.png);}

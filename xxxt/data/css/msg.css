@@ -1,0 +1,87 @@
+#main{
+	padding:0px 5px;
+        background-color:#fff;
+        border-top:solid 1px #eee;
+}
+#msg_box{
+	padding:5px;
+	height:1110px;
+}
+#left{
+	float:left;
+	width:190px;
+}
+#left p{
+	height:30px;
+	line-height:30px;
+	margin:10px 30px 10px 70px;
+	text-align:center;
+	font-size:14px;
+	cursor:pointer;
+	background:#333;
+	color:#fff;
+}
+#left .active , #left p:hover{
+	background-color:#d14836;
+}
+#right_outer{
+	border:1px solid #d14836;
+	float:left;
+	width:728px;
+	height:1100px;
+}
+#right textarea{
+	resize:none;
+	height:100px;
+	width:550px;
+	margin:15px 86px 5px 86px;
+	border:1px dashed #aaa;
+}
+#right span{
+	display:block;
+	height:24px;
+	margin-bottom:10px;
+}
+#right .btn{
+	height:24px;
+	width:60px;
+	margin-right:86px;
+	line-height:24px;
+	display:block;
+	color:#fff;
+	background:#333;
+	text-align:center;
+	float:right;
+	cursor:pointer;
+}
+#right .btn:hover{
+	background:#d14836;
+}
+.talk_box{
+	width:400px;
+	margin-bottom:10px;
+	border-radius:10px;
+}
+.talk_box:hover{
+	box-shadow:0 0 10px;
+}
+.talk_box p{
+	line-height:20px;
+	margin:0 15px;
+}
+.talk_box .content{
+	padding:10px 0;
+	min-height:30px;
+}
+.talk_box .date{
+	text-align:right;
+	padding-bottom:5px;
+}
+.me{
+	background:#f7f7f7;
+	margin-left:298px;
+}
+.other{
+	background:#eee;
+	margin-left:30px;
+}
