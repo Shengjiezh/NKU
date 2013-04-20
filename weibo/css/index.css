@@ -1,0 +1,12 @@
+.temp{
+    height:80px;
+    width:100%;
+    background:#ff0;
+    margin-bottom:20px;
+}
+.thumbnail:hover{
+    background:#08c;
+}
+.item-btn{
+    margin:5px 0 0 5px;
+}
