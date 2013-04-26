@@ -1,0 +1,7 @@
+body{
+    font-family:Lucida,Verdana,Hiragino Sans GB,STHeiti,WenQuanYi Micro Hei,"Microsoft YaHei",微软雅黑,SimSun,sans-serif;
+    background:url(../img/bg.png);
+}
+a:hover{
+	text-decoration:none;
+}

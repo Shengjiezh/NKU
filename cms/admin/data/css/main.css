@@ -1,0 +1,15 @@
+body{
+    height:100%;
+    width:100%;
+}
+#left{
+    height:100%;
+    width:20%;
+    background:#0ff;
+}
+#right{
+    height:100%;
+    width:80%;
+    float:right;
+    background:#0f0;
+}
