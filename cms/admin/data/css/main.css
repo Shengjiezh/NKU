@@ -1,15 +1,18 @@
-body{
-    height:100%;
-    width:100%;
-}
 #left{
-    height:100%;
-    width:20%;
-    background:#0ff;
+    width:10%;
+    background:#323847;
+    position:fixed;
+    left:0;
+    top:0;
+}
+#left .item{
+    height:100px;
+    width:128px;
+    color:#fff;
+    text-align:center;
 }
 #right{
-    height:100%;
-    width:80%;
-    float:right;
-    background:#0f0;
+    width:90%;
+    margin-left:10%;
+    height:100px;
 }

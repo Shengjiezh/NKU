@@ -1,3 +1,6 @@
+body{
+    background:url(../img/bg.png);
+}
 #login_box{
 	background:#4cadb4;
 	position:fixed;
